@@ -1,0 +1,277 @@
+#header {
+    position: fixed;
+    z-index: 501;
+    width: 100%;
+    background: 0 0;
+
+}
+#header_main {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    z-index: 1;
+}
+.navbar{
+    height:88px; 
+    line-height:88px;
+}
+
+.navbar-brand{
+    padding-left: 100px;
+}
+
+.navbar-light{
+    background-color:#212326 !important;
+}
+.nav-link {
+    color: white !important;
+}
+.main_menu {
+    clear: none;
+    position: absolute;
+    z-index: 100;
+    line-height: 30px;
+    height: 100%;
+    margin: 0;
+    right: 0;
+    padding-top: 20px;
+    padding-right: 123px;
+    font-family:'Comfortaa';
+    font-size: 13px;
+    
+}
+.carousel-item{
+    padding-top: 80px;
+}
+h2{
+    z-index: 5; 
+    font-family: Georgia, serif; 
+    visibility: visible; 
+    text-align: left; 
+    line-height: 56px; 
+    letter-spacing: 0px; 
+    font-weight: 400; 
+    font-size: 45px; 
+    border-color: rgb(68, 68, 68); 
+    border-style: none; 
+    margin: 0px; 
+    border-radius: 0px; 
+    padding: 0px; 
+    height: auto; 
+    color: rgb(255, 255, 255); 
+    text-decoration: none; 
+    white-space: normal; 
+    width: 556px; 
+    min-height: 0px; 
+    min-width: 0px; 
+    transform-origin: 50% 50%; 
+    opacity: 1; 
+    transform: translate(0px, 0px);
+    padding-bottom: 390px;
+    padding-left:1px;
+}
+
+.banner1 {
+    width: 100%;
+    height:50px;
+}
+
+.section{
+    background-color:#f4eae9;
+    padding-top:50px;
+    padding-bottom:60px;
+    font-family: big-caslon-fb, serif;
+    font-size:25px;
+    line-height: 50px;
+   
+    color:#212326;
+}
+
+.text1 h3{
+    height:20%;
+}
+
+.icon{
+    padding-top:90px;
+    padding-bottom: 20px;
+}
+.text-title{
+    font-family: big-caslon-fb, serif;
+   
+    font-weight:400;
+    font-size:24px;
+    line-height: 50px;
+    color: #212326;
+}
+
+.text2{
+    font-family: -macosx, sans-serif;
+
+    font-weight:400;
+    line-height: 25px;
+    color: #212326;
+    padding-bottom: 80px;
+}
+
+.talent{
+    padding-left: 110px;
+    padding-top: 50px;
+
+}
+.container1{
+    background-image: url("AGT-grad.jpg");
+    color: white;
+}
+
+footer{
+     background-color: #212326;
+     padding:70px 0px;
+}	       
+ 
+
+
+.text-center3{
+    font-family: cardo;
+    font-size: 12px;
+    line-height: 24px;
+    color:#5c7c91;
+    
+
+}
+.dropdown-menu{
+    background-color: #212326;
+    appearance: none;
+    font-size:13px;
+
+}
+
+.dropdown-item:hover{
+    background-color: #5c7c91 !important;
+    
+}
+
+.dropdown-toggle::after { 
+    content: none; 
+    }
+
+
+.dropdown-item{
+    color:white;
+}
+.text1{
+    font-family:  'Cardo', serif;
+    font-size: 25px;
+    line-height: 50px;
+}
+.text p{
+    font-size: 14px;
+    line-height: 25px;
+    font-family: sans-serif;
+    color:#212326;
+}
+
+.textwidget1 p{
+    font-size: 14px;
+    color:white;
+    font-family: sans-serif;
+}
+
+::selection {
+    background-color: #5c7c91;
+    color: #ffffff;
+}
+
+.title1{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 24px;
+    color:white;
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
+
+.text3{
+    font-family: sans-serif;
+    line-height: 49px;
+    color: white;
+    font-weight: 300;
+    padding-top: 100px;
+}
+
+.problem h3{
+    font-family: big-caslon-fb,serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 40px;
+}
+.problem p{
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 37px;
+}
+.solution h3{
+    font-family: big-caslon-fb,serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 40px;
+}
+.solution p{
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 37px;
+}
+
+.problem{
+    padding-bottom: 30px;
+    padding-left:50px;
+}
+
+.solution{
+    padding-left:50px;
+   
+}
+.m-t-spacer-2xl h3{
+    font-family: big-caslon-fb,serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 40px;
+    padding-left: 110px;
+    padding-top: 80px;
+}
+
+.col-sm p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 32px;
+    font-family: sans-serif;
+}
+
+.container1 .col-sm{
+    display: flex;
+    padding-left: 50px;
+    padding-bottom: 60px;
+}
+
+.carousel-item h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 51px;
+    font-weight: 400;
+    line-height: 64px;
+}
+
+.carousel-item P{
+    text-align: left;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.small{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400 !important;
+    font-style: italic !important;
+    font-size: 14px !important;
+    line-height: 21px !important;
+}
