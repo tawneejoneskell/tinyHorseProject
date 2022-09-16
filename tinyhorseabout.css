@@ -1,0 +1,92 @@
+.navbar-brand{
+	background-color: transparent;
+}
+
+
+/*.page {
+ background-image: url("https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-strategies.jpg");
+  background-repeat:none;
+background-size: cover;
+}*/
+
+.pagebar{
+	width: 2px;
+
+}
+
+.aboutus{
+font-style:normal;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	background-color: #f4eae9;
+	font:30px/1.65em "Times","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: rgb(5, 3, 3);
+	padding-top: 50px; 
+padding-left:100px ;
+padding-right: 100px;
+padding-bottom:50px;
+}
+ 
+
+ .founder{
+	
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size:100px;
+	margin-bottom: 50px;
+	text-align: justify;
+}
+.container-fluid{
+display: grid;
+grid-column-start: 1;
+grid-column-end:4;
+overflow: auto;
+resize: horizontal;
+ }
+ 
+
+ .img-fluid{
+	grid-row:10px;
+	border-radius: 200px;
+	text-align:center 1px;
+	
+ }
+
+h2{
+	padding-top: 100px;
+	font-style:bold;
+	font: size 30px;
+}
+
+ h3 {
+	font-size: 1px;
+ }
+
+footer {
+	padding-top: 30px;
+	background-color: #212623;
+	background-size: cover;
+	position: absolute;
+	width: 100%;
+	height:40%;
+	
+}
+@media screen and (max-width:300px) {
+	.col-xs-12 col-sm-4{
+		max-width: 100%;
+		margin:0;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
